@@ -4,10 +4,10 @@ module.exports = {
   theme: {
     extend: {
       colors:{
-        papayawhip:{
-          light: '#fef4e4',
-          DEFAULT: '#ffefd5',
-          dark: '#fee5bc',
+        coolblue:{
+          light: '#5dc2ff',
+          DEFAULT: '#015588',
+          dark: '#00385A',
         }
       },
       screens:{
